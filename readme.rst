@@ -1,3 +1,9 @@
+
+
+http://localhost/detaildata/mahasiswa/index
+
+
+
 ###################
 What is CodeIgniter
 ###################
